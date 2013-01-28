@@ -25,7 +25,7 @@
   <project path="cts" name="cts" remote="Backed" revision="jb-4.2" />
   <project path="dalvik" name="dalvik" remote="Backed" revision="jb-4.2"/>
   <project path="development" name="development" remote="Backed" revision="jb-4.2" />
-  <project name="device/samsung/galaxysbmtd" path="device_samsung_galaxysmtd" remote="github" revision="cm-10.1" />
+  <project path="device/samsung/galaxysbmtd" name="android_device_samsung_galaxysbmtd" remote="cm" revision="cm-10.1" />
   <project path="device/common" name="device_common" remote="Backed" revision="jb-4.2" />
   <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" />
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" />
