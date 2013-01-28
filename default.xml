@@ -358,7 +358,7 @@
   <project path="tools/build" name="platform/tools/build" groups="toolsbuild" />
   <project path="tools/motodev" name="platform/tools/motodev" />
 
-  <project path="vendor/Backed" name="vendor_Backed" remote="Backed" revision="jb-4.2" />
+  <project path="vendor/Backed" name="vendor_baked" remote="Backed" revision="jb-4.2" />
   <project path="vendor/Backed/bot" name="pseudo_buildbot" remote="Backed" revision="jb-4.2" />
   <project path="vendor/broadcom" name="vendor_broadcom" remote="Backed" revision="jb-4.2" />
   <project path="vendor/nvidia" name="vendor_nvidia" remote="Backed" revision="jb-4.2" />
